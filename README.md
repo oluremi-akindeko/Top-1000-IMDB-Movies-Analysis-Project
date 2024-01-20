@@ -20,3 +20,6 @@ SQL Project Questions.txt-contains the questions upon which insights were extrac
 # Requirements
 Language: SQL
 RDBMS used: Postgresql
+
+# Data source
+www.kaggle.com
