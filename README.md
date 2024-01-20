@@ -14,6 +14,8 @@ I have answered twelve major questions using the available data.
 # Files used
 IMDB SQL queries.sql-shows all queries with the problems being solved as comments before the queries.
 result.pdf- shows the results of each insight extracted.
+imdb_top_1000 transformed.csv-contains the dataset used in carrying out the project.
+SQL Project Questions.txt-contains the questions upon which insights were extracted.
 
 # Requirements
 Language: SQL
